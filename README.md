@@ -11,7 +11,7 @@ Desenvolvedora front-end em início de carreira, paixão por criar interfaces in
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=nalugsw&layout=compact&theme=radical)
 
 </div>
----
+
 
 ## 🛠️ Tecnologias & Ferramentas
 
