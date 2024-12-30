@@ -50,6 +50,7 @@ Desenvolvedora front-end em início de carreira, com paixão por criar interface
 
 ### 3. Landing Page responsiva
 - Tecnologias: Html, Css, Javascript (JQUERY)
-- Descrição: Uma Landing Page responsiva e intuitiva.
+- Descrição: Uma Landing Page responsiva e com animações usando HTML, CSS e JavaScript, com foco em JQuery.
+
 
 
