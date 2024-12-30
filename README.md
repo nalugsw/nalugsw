@@ -16,16 +16,18 @@ Desenvolvedora front-end em início de carreira, com paixão por criar interface
 
 ## 🌟 Tecnologias & Ferramentas
 
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-![Windows](https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)
+![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 
 ---
 
