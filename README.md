@@ -1,7 +1,17 @@
-# Olá, eu sou a Ana Luiza Gomes! 👩‍💻
+# Olá, eu sou a Ana Luiza Gomes! 
 
 Seja bem-vindo(a) ao meu perfil! Sou uma desenvolvedora front-end em início de carreira, com paixão por criar interfaces intuitivas, funcionais e visualmente atraentes. Tenho experiência em tecnologias modernas que tornam a experiência do usuário mais dinâmica e responsiva, mas também amplio meu horizonte explorando ferramentas e práticas do desenvolvimento back-end. 
 
+
+---
+## 📊 Minhas Estatísticas no GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nalugsw&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=nalugsw&layout=compact&theme=radical)
+
+</div>
 ---
 
 ## 🌟 Tecnologias & Ferramentas
@@ -19,17 +29,6 @@ Seja bem-vindo(a) ao meu perfil! Sou uma desenvolvedora front-end em início de 
 
 ---
 
-## 📊 Minhas Estatísticas no GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nalugsw&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=nalugsw&layout=compact&theme=radical)
-
-</div>
-
----
-
 ## 🌐 Conecte-se Comigo
 
 <div align="center">
@@ -39,18 +38,6 @@ Seja bem-vindo(a) ao meu perfil! Sou uma desenvolvedora front-end em início de 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/naluugsw)
 
 </div>
-
----
-
-## 📝 Sobre Mim
-
-- 🔭 *Atualmente:* Trabalhando em projetos pessoais e explorando o desenvolvimento full-stack.  
-- 🌱 *Aprendendo:* React, microsserviços e boas práticas de arquitetura de software.  
-- 👩‍💻 *Habilidades:* Desenvolvimento web, banco de dados, programação orientada a objetos e versionamento de código.  
-- 💡 *Curiosidades:* Adoro resolver problemas complexos e criar soluções criativas que otimizem processos.  
-- 🤝 *Busco:* Colaborar em projetos open-source e contribuir para a comunidade tecnológica.
-
----
 
 ## 💼 Projetos em Destaque
 
@@ -65,8 +52,4 @@ Seja bem-vindo(a) ao meu perfil! Sou uma desenvolvedora front-end em início de 
 - Tecnologias: Html, Css, Javascript (JQUERY)
 - Descrição: Uma Landing Page responsiva e intuitiva.
 
-<div align="center">
 
-*“A tecnologia é a ponte entre o presente e o futuro.”*
-
-</div>
