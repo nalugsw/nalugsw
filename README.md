@@ -1,6 +1,6 @@
 # Olá, eu sou a Ana Luiza Gonsani! 
 
-Desenvolvedora front-end em início de carreira, paixão por criar interfaces intuitivas, funcionais e visualmente atraentes. Tenho experiência em tecnologias modernas que tornam a experiência do usuário mais dinâmica e responsiva, mas também amplio meu horizonte explorando ferramentas e práticas do desenvolvimento back-end. 
+Desenvolvedora front-end em início de carreira, focada em criar interfaces intuitivas, funcionais e visualmente atraentes. Tenho experiência em tecnologias modernas que tornam a experiência do usuário mais dinâmica e responsiva, mas também amplio meu horizonte explorando ferramentas e práticas do desenvolvimento back-end. 
 
 
 ## 📊 Minhas Estatísticas no GitHub
