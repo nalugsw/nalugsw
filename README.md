@@ -1,6 +1,6 @@
 # Olá, eu sou a Ana Luiza Gonsani! 
 
-Atualmente focada na área de **Observabilidade, Operações e Performance**, tenho experiência com ferramentas modernas como o **Datadog** para monitoramento, análise de logs, métricas e rastreamento de aplicações. Venho da área de desenvolvimento, o que me permite ter uma visão completa do ciclo de vida das aplicações – desde o código até o comportamento em produção. 🚀
+Atualmente focada na área de **Observabilidade, Operações e Performance**, tenho experiência com ferramentas modernas como o **Datadog** para monitoramento, análise de logs, métricas e rastreamento de aplicações. Venho da área de desenvolvimento, o que me permite ter uma visão completa do ciclo de vida das aplicações, desde o código até o comportamento em produção. 🚀
 
 Busco constantemente entender como os sistemas se comportam, antecipar falhas e garantir que estejam sempre disponíveis, performáticos e seguros.
 
