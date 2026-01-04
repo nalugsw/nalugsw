@@ -4,14 +4,6 @@ Atualmente focada na área de **Observabilidade, Operações e Performance**, te
 
 Busco constantemente entender como os sistemas se comportam, antecipar falhas e garantir que estejam sempre disponíveis, performáticos e seguros.
 
-## 📊 Minhas Estatísticas no GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nalugsw&show_icons=true&theme=radical&count_private=true&include_all_commits=true)  
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=nalugsw&layout=compact&theme=radical)
-
-</div>
 
 ## 🛠️ Tecnologias & Ferramentas
 
