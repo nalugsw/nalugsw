@@ -1,28 +1,37 @@
-# Olá, me chamo Ana Luiza! 
+# Ana Luiza 👩‍💻
 
-Atualmente focada na área de **Observabilidade, Operações e Performance**, tenho experiência com ferramentas modernas como o **Datadog** para monitoramento, análise de logs, métricas e rastreamento de aplicações. Venho da área de desenvolvimento, o que me permite ter uma visão completa do ciclo de vida das aplicações, desde o código até o comportamento em produção. 
+Focada em **Observabilidade, Operações e Performance**.  
+Atuo com monitoramento, métricas, logs e tracing, unindo visão de **desenvolvimento + produção** para garantir sistemas estáveis, performáticos e confiáveis.
 
-Busco constantemente entender como os sistemas se comportam, antecipar falhas e garantir que estejam sempre disponíveis, performáticos e seguros.
-
-
-## 🛠️ Tecnologias & Ferramentas
-
-### Observabilidade e Operações
-![Datadog](https://img.shields.io/badge/Datadog-0D1117?style=for-the-badge&logo=datadog&logoColor=white)
-
-
-### Desenvolvimento
-
+Tenho interesse em entender o comportamento real das aplicações, antecipar falhas e melhorar continuamente a experiência em produção.
 
 ---
 
-## 🌐 Conecte-se Comigo
+## 🛠️ Stack
 
-<div align="center">
+### Observabilidade & Operações
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datadog/datadog-original.svg" width="40"/>
+</p>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanaluiza663@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/analuiza001/)
+### Desenvolvimento
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+</p>
 
-</div>
+---
 
+## 🌐 Contato
 
+<p align="center">
+  <a href="mailto:sanaluiza663@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png"/>
+  </a>
+  <a href="https://linkedin.com/in/analuiza001">
+    <img src="https://img.icons8.com/color/48/linkedin.png"/>
+  </a>
+</p>
