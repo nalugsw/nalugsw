@@ -1,4 +1,4 @@
-# Ana Luiza 👩‍💻
+# Ana Luiza Santos
 
 Focada em **Observabilidade, Operações e Performance**.  
 Atuo com monitoramento, métricas, logs e tracing, unindo visão de **desenvolvimento + produção** para garantir sistemas estáveis, performáticos e confiáveis.
