@@ -26,7 +26,7 @@ Experience with monitoring, metrics, logs, and tracing, bridging development and
 
 ## 🌐 Connect with me
 
-  <a href="mailto:sanaluiza663@gmail.com">
+  <a href="mailto:contatoanaluizagonsani@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail-new.png"/>
   </a>
   <a href="https://linkedin.com/in/analuiza001">
