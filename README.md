@@ -5,7 +5,7 @@ Experience with monitoring, metrics, logs, and tracing, bridging development and
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Observability & Operations
 <p align="left">
