@@ -1,17 +1,17 @@
 # Olá, me chamo Ana Luiza! 
 
-Atualmente focada na área de **Observabilidade, Operações e Performance**, tenho experiência com ferramentas modernas como o **Datadog** para monitoramento, análise de logs, métricas e rastreamento de aplicações. Venho da área de desenvolvimento, o que me permite ter uma visão completa do ciclo de vida das aplicações, desde o código até o comportamento em produção. 🚀
+Atualmente focada na área de **Observabilidade, Operações e Performance**, tenho experiência com ferramentas modernas como o **Datadog** para monitoramento, análise de logs, métricas e rastreamento de aplicações. Venho da área de desenvolvimento, o que me permite ter uma visão completa do ciclo de vida das aplicações, desde o código até o comportamento em produção. 
 
 Busco constantemente entender como os sistemas se comportam, antecipar falhas e garantir que estejam sempre disponíveis, performáticos e seguros.
 
 
 ## 🛠️ Tecnologias & Ferramentas
 
-### 🧠 Observabilidade e Operações
+### Observabilidade e Operações
 ![Datadog](https://img.shields.io/badge/Datadog-0D1117?style=for-the-badge&logo=datadog&logoColor=white)
 
 
-### 💻 Desenvolvimento
+### Desenvolvimento
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=white)
@@ -35,20 +35,4 @@ Busco constantemente entender como os sistemas se comportam, antecipar falhas e 
 
 </div>
 
-## 💼 Projetos em Destaque
 
-### 1. *Sistema de Locadora de Veículos*
-- Tecnologias: HTML, CSS, JavaScript, MySQL, PHP
-- Descrição: Um sistema completo para gerenciamento de locações e estoque de veículos.
-
-### 2. *Sistema de Barbearia (TCC)*
-- Tecnologias: HTML, CSS, JS, PHP, MySQL
-- Descrição: Projeto acadêmico com foco em agendamentos e relatórios administrativos.
-
-### 3. *Landing Page Responsiva*
-- Tecnologias: HTML, CSS, JavaScript (JQuery)
-- Descrição: Landing Page com layout moderno, responsivo e interativo.
-
----
-
-🌱 *Em constante aprendizado e transição para uma profissional completa em observabilidade, infraestrutura moderna e automação de ambientes produtivos.*
