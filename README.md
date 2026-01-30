@@ -12,17 +12,7 @@ Busco constantemente entender como os sistemas se comportam, antecipar falhas e 
 
 
 ### Desenvolvimento
-.(https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=white)
-.(https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=white)
-.(https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=white)
-.(https://img.shields.io/badge/React_Native-0D1117?style=for-the-badge&logo=react&logoColor=white)
-.(https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=white)
-.(https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=c-sharp&logoColor=white)
-.(https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=white)
-.(https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=white)
-.(https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white)
-.(https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=white)
-.(https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
+
 
 ---
 
