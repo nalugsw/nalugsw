@@ -2,8 +2,7 @@
 
 Focada em **Observabilidade, Operações e Performance**.  
 Atuo com monitoramento, métricas, logs e tracing, unindo visão de **desenvolvimento + produção** para garantir sistemas estáveis, performáticos e confiáveis.
-
-Tenho interesse em entender o comportamento real das aplicações, antecipar falhas e melhorar continuamente a experiência em produção.
+Entender o comportamento real das aplicações, antecipar falhas e melhorar continuamente a experiência em produção.
 
 ---
 
